@@ -7,7 +7,7 @@ Building autonomous multi-agent systems using CrewAI, LangChain, and real-time w
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/abhinit-mehndiratta/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:abhinitmehndiratta@gmail.com">
