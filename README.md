@@ -67,18 +67,6 @@ Through internships across AI research, data engineering, and backend developmen
 
 ## 💼 Professional Experience
 
-<h3>🔬 AI Research Intern | Sopra Steria India Ltd.</h3>
-<p><i>May 2025 – Aug 2025 | Remote</i></p>
-
-<ul>
-  <li>Architected and deployed <b>“MultiMind AI”</b>, an autonomous multi-agent research platform using <b>CrewAI and Gemini</b> for dynamic data extraction and structured knowledge synthesis.</li>
-  <li>Integrated <b>Firecrawl MCP</b> for real-time web crawling and automated transformation of unstructured web content into structured datasets.</li>
-  <li>Designed intelligent agent-routing workflows that dynamically select specialized agents (NewsResearcher, MediaExtractor, Writer) based on user prompts.</li>
-  <li>Collaborated with mentors to refine system architecture, improve response accuracy, and optimize multi-agent orchestration efficiency.</li>
-</ul>
-
----
-
 <h3>📊 Data Intern | Veersa Technologies</h3>
 <p><i>Jan 2026 – Present | Noida</i></p>
 
@@ -87,6 +75,18 @@ Through internships across AI research, data engineering, and backend developmen
   <li>Analyzed <b>Physical Data Models (PDM)</b> and improved relational schema integrity to enhance query performance and data consistency.</li>
   <li>Collaborated in Agile workflows using <b>Jira</b> for issue tracking and cross-team coordination.</li>
   <li>Supported data engineering initiatives by ensuring structured data extraction and efficient backend integration.</li>
+</ul>>
+
+---
+
+<h3>🔬 AI Research Intern | Sopra Steria India Ltd.</h3>
+<p><i>May 2025 – Aug 2025 | Remote</i></p>
+
+<ul>
+  <li>Architected and deployed <b>“MultiMind AI”</b>, an autonomous multi-agent research platform using <b>CrewAI and Gemini</b> for dynamic data extraction and structured knowledge synthesis.</li>
+  <li>Integrated <b>Firecrawl MCP</b> for real-time web crawling and automated transformation of unstructured web content into structured datasets.</li>
+  <li>Designed intelligent agent-routing workflows that dynamically select specialized agents (NewsResearcher, MediaExtractor, Writer) based on user prompts.</li>
+  <li>Collaborated with mentors to refine system architecture, improve response accuracy, and optimize multi-agent orchestration efficiency.</li>
 </ul>
 
 ---
@@ -124,11 +124,6 @@ Through internships across AI research, data engineering, and backend developmen
   <tr>
     <td><b>🤖 AI & Agent Systems</b></td>
     <td>CrewAI, LangChain, Gemini, Firecrawl MCP, Serper API, Pandas</td>
-  </tr>
-
-  <tr>
-    <td><b>🧠 Machine Learning</b></td>
-    <td>Scikit-Learn, TensorFlow (Basics), PyTorch (Basics), Data Preprocessing, NLP</td>
   </tr>
 
   <tr>
