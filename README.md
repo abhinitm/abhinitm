@@ -22,8 +22,46 @@ Building autonomous multi-agent systems using CrewAI, LangChain, and real-time w
 
 ## 👨‍💻 Professional Summary
 
-Final-year B.Tech CSE (IoT & IS) student focused on building **multi-agent AI systems** and autonomous research pipelines.  
-Experienced in CrewAI, MCP, LangChain, Spring Boot microservices, and scalable backend systems.
+<p>
+Final-year <b>B.Tech Computer Science (IoT & IS)</b> student (CGPA: <b>8.37</b>) with hands-on experience in building 
+<b>intelligent autonomous systems</b> and scalable backend architectures. Passionate about 
+<b>Agentic AI, Multi-Agent Collaboration (MCP), and real-time data-driven applications</b>.
+</p>
+
+<p>
+I specialize in designing <b>end-to-end intelligent solutions</b> — from structured data modeling and backend microservices 
+to AI-powered reasoning engines and autonomous research agents. My work integrates 
+<b>CrewAI, LangChain, Gemini, Firecrawl MCP, and RESTful systems</b> to transform unstructured inputs 
+into structured, actionable insights.
+</p>
+
+<p>
+Through internships across AI research, data engineering, and backend development, I have developed strong expertise in:
+</p>
+
+<ul>
+  <li>🧠 Architecting multi-agent orchestration systems</li>
+  <li>📊 Designing optimized SQL queries & relational data models</li>
+  <li>⚙️ Building RESTful microservices using Spring Framework</li>
+  <li>🔍 Implementing structured reasoning pipelines for AI agents</li>
+  <li>🌐 Converting real-time web data into actionable intelligence</li>
+</ul>
+
+---
+
+## 🏅 Certifications
+
+<ul>
+  <li>
+    🎓 <b>CCNA: Introduction to Networks</b> – Cisco Networking Academy<br>
+    <sub>Developed strong foundational knowledge in IP addressing, OSI & TCP/IP models, network protocols, routing fundamentals, and basic infrastructure configuration.</sub>
+  </li>
+  <br>
+  <li>
+    🌐 <b>CCNA: Switching, Routing, and Wireless Essentials</b> – Cisco Networking Academy<br>
+    <sub>Hands-on experience with VLAN configuration, inter-VLAN routing, switching technologies, wireless LAN setup, network security basics, and enterprise-level troubleshooting.</sub>
+  </li>
+</ul>
 
 ---
 
