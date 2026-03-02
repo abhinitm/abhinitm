@@ -133,7 +133,7 @@ Through internships across AI research, data engineering, and backend developmen
 
   <tr>
     <td><b>☁️ Cloud & Networking</b></td>
-    <td>AWS (EC2, S3 – Basics), CCNA Networking Fundamentals</td>
+    <td>AWS (EC2, S3 – Basics)</td>
   </tr>
 
 </table>
