@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinit Mehndiratta</h1>
 
-<h3 align="center">🚀 Multi-Agent AI Engineer | Agentic Systems • MCP • Intelligent Automation</h3>
+<h3 align="center">🚀 Agentic AI Enthusiast / Developer | Agentic Systems • MCP • Intelligent Automation</h3>
 
 <p align="center">
 Building autonomous multi-agent systems using CrewAI, LangChain, and real-time web intelligence.
